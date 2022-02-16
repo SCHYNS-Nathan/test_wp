@@ -13,7 +13,7 @@
         <h1 class="header__title"><?= (get_bloginfo('name'))?></h1>
         <p class="header__description"><?= (get_bloginfo('description'))?></p>
         <nav class="header__nav nav">
-
+            <p class="header__placeholder">TODO...</p>
         </nav>
     </header>
 
